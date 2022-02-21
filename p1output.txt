@@ -1,7 +1,9 @@
-
 gcc -g p1original.c -lm
  ./a.out
 enter the two points
 3 7 8 9
 the distance between the points (3.000000,7.000000) and (8.000000,9.000000) is with 10.000000 
+
+
+ 
 
